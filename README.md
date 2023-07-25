@@ -108,8 +108,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohdnehalkhan&show_icons=true&locale=en&layout=compact" alt="mohdnehalkhan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohdnehalkhan&show_icons=true&locale=en" alt="mohdnehalkhan" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdnehalkhan&" alt="mohdnehalkhan" /></p>
 
 ![!visitors](https://visitor-badge.laobi.icu/badge?page_id=MOHDNEHALKHAN.MOHDNEHALKHAN)
