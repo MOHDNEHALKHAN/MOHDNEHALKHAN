@@ -1,9 +1,9 @@
 ![mohd Nehal khan](https://github.com/MOHDNEHALKHAN/MOHDNEHALKHAN/assets/125626654/bc53f96d-8707-44b9-a8b7-b5301a919c41)
 <h1 align="center">Hi 👋, I'm MOHD NEHAL KHAN</h1>
-<h3 align="center">A passionate Full stack developer from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
 <img align = "right" alt = "Programmer" width = "400" src ="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **JSFramework**
 - 📫 How to reach me **nehalk482@gmail.com**
 
 
@@ -89,6 +89,7 @@
 [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)][udemy]
 <!--[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)][quora]-->
 [![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)][google]
+
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][github]
 
 <!--[medium]: https://medium.com/-->
@@ -105,12 +106,12 @@
 <!--[repo]: https://github.com/codingstella?tab=repositories-->
 
 ## 📈 **PROFILE STATUS**
+<img src="https://github-readme-streak-stats.herokuapp.com?user=MOHDNEHALKHAN&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Stats for MOHD NEH" width="500" >
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohdnehalkhan&show_icons=true&locale=en&layout=compact" alt="mohdnehalkhan" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHDNEHALKHAN&layout=compact&theme=radical" width="300" align ="left">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdnehalkhan&" alt="mohdnehalkhan" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=MOHDNEHALKHAN&show_icons=true&theme=radical" width="450">
 
 ![!visitors](https://visitor-badge.laobi.icu/badge?page_id=MOHDNEHALKHAN.MOHDNEHALKHAN)
 
 ### **Thanks for checking out my GitHub Profile!** 
-
