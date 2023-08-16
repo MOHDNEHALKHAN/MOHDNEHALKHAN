@@ -108,9 +108,9 @@
 ## 📈 **PROFILE STATUS**
 <img src="https://github-readme-streak-stats.herokuapp.com?user=MOHDNEHALKHAN&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Stats for MOHD NEH" width="500" >
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHDNEHALKHAN&layout=compact&theme=radical" width="300" align ="left">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MOHDNEHALKHAN&layout=compact&width=300)
 
-<img src="https://github-readme-stats.vercel.app/api?username=MOHDNEHALKHAN&show_icons=true&theme=radical" width="450">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOHDNEHALKHAN&show_icons=true&bg_color=#ffa500)
 
 ![!visitors](https://visitor-badge.laobi.icu/badge?page_id=MOHDNEHALKHAN.MOHDNEHALKHAN)
 
