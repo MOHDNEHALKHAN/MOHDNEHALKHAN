@@ -110,6 +110,8 @@
 
 ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MOHDNEHALKHAN&layout=compact&width=300&theme=radical&custom_title=Languages%20used%20in%20my%20projects)
 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MOHDNEHALKHAN&theme=radical" alt="SauravMukherjee" />
+
 ![!visitors](https://visitor-badge.laobi.icu/badge?page_id=MOHDNEHALKHAN.MOHDNEHALKHAN)
 
 ### **🤝 Thanks for checking out my GitHub Profile!** 
