@@ -4,7 +4,7 @@
 <h3 align="center">A Web developer & Open source contributor from India</h3>
 <img align = "right" alt = "Programmer" width = "400" src ="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-- 🌱 I’m currently learning **JS Framework**
+- 🌱 I’m currently learning **Javascript**
 - 📫 How to reach me **nehalk482@gmail.com**
 
 
