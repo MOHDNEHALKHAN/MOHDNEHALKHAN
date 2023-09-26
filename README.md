@@ -1,6 +1,6 @@
 ![mohd Nehal khan](https://github.com/MOHDNEHALKHAN/MOHDNEHALKHAN/assets/125626654/5e71f0c7-9700-485d-9c90-b0f4b2578909)
 
-<h1 align="center">Hi 👋, I'm MOHD NEHAL KHAN</h1>
+<h1 align="center" color="black">Hi 👋, I'm MOHD NEHAL KHAN</h1>
 <h3 align="center">A Web developer & Open source contributor from India</h3>
 <img align = "right" alt = "Programmer" width = "400" src ="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
