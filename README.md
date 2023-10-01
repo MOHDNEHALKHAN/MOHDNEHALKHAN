@@ -1,4 +1,4 @@
-![mohd Nehal khan](https://github.com/MOHDNEHALKHAN/MOHDNEHALKHAN/assets/125626654/5e71f0c7-9700-485d-9c90-b0f4b2578909)
+![mohd Nehal khan (2)](https://github.com/MOHDNEHALKHAN/MOHDNEHALKHAN/assets/125626654/8364b6d6-53e9-40bc-b1c2-911aba72f3f3)
 
 <h1 align="center" color="black">Hi 👋, I'm MOHD NEHAL KHAN</h1>
 <h3 align="center">A Web developer & Open source contributor from India</h3>
