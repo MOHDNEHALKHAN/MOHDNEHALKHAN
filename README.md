@@ -53,14 +53,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white "Git")
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white "GitHub")
 
-## 📄 **CODE EDITOR & IDES**
-
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")
-![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
-
-<!-- [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white "Visual Studio")][repo] -->
-<!-- [![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)][repo] -->
-
 <!-- ## 🌐 **BROWSERS**
 
 [![Google Chrome](https://img.shields.io/badge/Google%20Chrome-317cee?style=for-the-badge&logo=GoogleChrome&logoColor=white)][repo]
