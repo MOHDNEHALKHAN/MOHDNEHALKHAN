@@ -73,7 +73,7 @@
 <!-- ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) -->
 <!-- ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) -->
 
-## ☃️ **MY LEARNING RESOURCES**
+<!-- ## ☃️ **MY LEARNING RESOURCES**
 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)][sof]
 [![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)][mdn]
@@ -100,6 +100,7 @@
 [fcc]: https://www.freecodecamp.org/
 [sof]: https://stackoverflow.com/
 <!--[repo]: https://github.com/codingstella?tab=repositories-->
+
 
 ## 📈 **PROFILE STATUS**
 
