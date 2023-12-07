@@ -41,12 +41,12 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white "Bootstrap")
 ![MY SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white "MYSQL")
 
-## 🍧 **DESIGN TOOLS**
+<!--## 🍧 **DESIGN TOOLS**
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white "Figma")
 ![Canva](https://img.shields.io/badge/canva-%4E4FEB.svg?style=for-the-badge&logo=canva&logoColor=white "Canva")
 
-
+-->
 
 ## 🛠️ **DEVOPS TOOLS**
 
