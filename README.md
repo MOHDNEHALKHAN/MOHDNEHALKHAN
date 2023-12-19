@@ -100,7 +100,15 @@
 [fcc]: https://www.freecodecamp.org/
 [sof]: https://stackoverflow.com/
 <!--[repo]: https://github.com/codingstella?tab=repositories-->
+## 📓 **MY BLOGS**
+<a href="https://nehalblogs.hashnode.dev/git-github-start-before-your-code-get-bugs"> 
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1691248071725/0e580f46-2c88-48bd-8684-dae03a83db44.png?w=100&h=50&fit=crop&crop=entropy&auto=compress,format&format=webp"/>
+</a>
+<br>
+<a href="https://nehalblogs.hashnode.dev/web-development-all-you-know-before-start"> 
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1688800293773/57fd96a1-4360-4230-85d8-e69891a6b971.png?w=100&h=50&fit=crop&crop=entropy&auto=compress,format&format=webp"/>
 
+</a>
 
 ## 📈 **PROFILE STATUS**
 
