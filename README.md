@@ -1,7 +1,7 @@
 ![mohd Nehal khan (2)](https://github.com/MOHDNEHALKHAN/MOHDNEHALKHAN/assets/125626654/8364b6d6-53e9-40bc-b1c2-911aba72f3f3)
 
 <h1 align="center" color="black">Hi 👋, I'm MOHD NEHAL KHAN</h1>
-<h3 align="center">A Web developer & Open source contributor from India</h3>
+<h3 align="center">A Web developer & Open source contributor</h3>
 <img align = "right" alt = "Programmer" width = "400" src ="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 - 🌱 I’m currently learning **Javascript**
@@ -104,7 +104,7 @@
 <a href="https://nehalblogs.hashnode.dev/git-github-start-before-your-code-get-bugs"> 
     <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1691248071725/0e580f46-2c88-48bd-8684-dae03a83db44.png?w=100&h=50&fit=crop&crop=entropy&auto=compress,format&format=webp"/>
 </a>
-<br>
+
 <a href="https://nehalblogs.hashnode.dev/web-development-all-you-know-before-start"> 
     <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1688800293773/57fd96a1-4360-4230-85d8-e69891a6b971.png?w=100&h=50&fit=crop&crop=entropy&auto=compress,format&format=webp"/>
 
