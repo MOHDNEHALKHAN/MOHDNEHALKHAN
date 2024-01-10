@@ -28,6 +28,9 @@
 <!--<a href="https://www.facebook.com/profile.php?=100087370156118"> 
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" title="Facebook"  alt="Facebook"/>
 </a> -->
+<a href="https://nehalblogs.hashnode.dev/"> 
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" title="Hashnode"  alt="Hashnode"/>
+</a> 
 
 <br />
 
