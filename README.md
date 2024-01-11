@@ -1,7 +1,6 @@
 ![mohd Nehal khan (2)](https://github.com/MOHDNEHALKHAN/MOHDNEHALKHAN/assets/125626654/8364b6d6-53e9-40bc-b1c2-911aba72f3f3)
 
 <h1 align="center" color="black">Hi 👋, I'm MOHD NEHAL KHAN</h1>
-<h3 align="center">A Web developer & Open source contributor</h3>
 <img align = "right" alt = "Programmer" width = "400" src ="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 - 🌱 I’m currently learning **Javascript**
