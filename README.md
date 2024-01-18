@@ -1,4 +1,4 @@
-![mohd Nehal khan (2)](https://github.com/MOHDNEHALKHAN/MOHDNEHALKHAN/assets/125626654/8364b6d6-53e9-40bc-b1c2-911aba72f3f3)
+![mohd Nehal khan](https://github.com/MOHDNEHALKHAN/MOHDNEHALKHAN/assets/125626654/7f611303-d8de-4cb3-a77b-87656efbcf18)
 
 <h1 align="center" color="black">Hi 👋, I'm MOHD NEHAL KHAN</h1>
 <img align = "right" alt = "Programmer" width = "400" src ="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
