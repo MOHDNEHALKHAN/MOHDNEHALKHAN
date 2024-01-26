@@ -3,7 +3,7 @@
 <h1 align="center" color="black">Hi 👋, I'm MOHD NEHAL KHAN</h1>
 <img align = "right" alt = "Programmer" width = "400" src ="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Javascript & AWS**
 - 📫 How to reach me **nehalk482@gmail.com**
 
 
