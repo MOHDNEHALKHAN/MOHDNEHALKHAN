@@ -3,7 +3,7 @@
 <h1 align="center" color="black">Hi 👋, I'm MOHD NEHAL KHAN</h1>
 <img align = "right" alt = "Programmer" width = "400" src ="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-- 🌱 I’m currently learning **Javascript & AWS**
+- 🌱 I’m currently learning **Javascript Advance Concepts**
 - 📫 How to reach me **nehalk482@gmail.com**
 
 
@@ -42,6 +42,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white "Bootstrap")
 ![MY SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white "MYSQL")
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white "AWS")
 
 <!--## 🍧 **DESIGN TOOLS**
 
@@ -130,4 +131,4 @@
 
 ![!visitors](https://visitor-badge.laobi.icu/badge?page_id=MOHDNEHALKHAN.MOHDNEHALKHAN)
 
-### **🤝 Thanks for checking out my GitHub Profile!** 
+### **🤝 Thanks for look out my GitHub Profile!** 
