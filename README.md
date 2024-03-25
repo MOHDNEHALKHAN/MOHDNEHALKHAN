@@ -118,6 +118,10 @@
     <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1695650818295/e3c294bc-3475-44f6-b9c3-bdf6a5a42577.png?w=100&h=50&fit=crop&crop=entropy&auto=compress,format&format=webp"/>
 
 </a>
+<a href="https://nehalblogs.hashnode.dev/unlocking-the-power-of-api"> 
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1710910830673/0da37bd3-ff16-435f-bd0d-2e97f1ffba03.png?w=100&h=50&fit=crop&crop=entropy&auto=compress,format&format=webp"/>
+
+</a>
 
 ## 📈 **PROFILE STATUS**
 
