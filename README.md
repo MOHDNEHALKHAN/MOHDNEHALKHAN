@@ -1,6 +1,6 @@
 ![mohd Nehal khan](https://github.com/MOHDNEHALKHAN/MOHDNEHALKHAN/assets/125626654/7f611303-d8de-4cb3-a77b-87656efbcf18)
 
-<h1 align="center" color="black">Hi 👋, I'm MOHD NEHAL KHAN</h1>
+<h1 align="center" color="black">Hello 👋, I'm Mohd Nehal Khan</h1>
 <img align = "right" alt = "Programmer" width = "400" src ="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 - 🌱 I’m currently learning **Javascript Advance Concepts**
@@ -125,16 +125,17 @@
 
 ## 📈 **PROFILE STATUS**
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MOHDNEHALKHAN&layout=compact&width=300&theme=radical&custom_title=Languages%20used%20in%20my%20projects" alt="GitHub Stats for MOHD NEHAL KHAN" width="300" align="right">
+
+<!--[![MOHD NEHAL KHAN's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOHDNEHALKHAN&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
+
+<img src="https://github-readme-stats.vercel.app/api?username=MOHDNEHALKHAN&theme=radical" alt="GitHub Stats for MOHD NEHAL KHAN" width="420" align="right">
 
 <!--![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MOHDNEHALKHAN&layout=compact&width=300&theme=radical&custom_title=Languages%20used%20in%20my%20projects)-->
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=MOHDNEHALKHAN&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Stats for MOHD NEHAL KHAN" width="420">
 
-<!--[![MOHD NEHAL KHAN's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOHDNEHALKHAN&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
-
-<img src="https://github-readme-stats.vercel.app/api?username=MOHDNEHALKHAN&theme=radical" alt="GitHub Stats for MOHD NEHAL KHAN" width="420">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MOHDNEHALKHAN&layout=compact&width=300&theme=radical&custom_title=Languages%20used%20in%20my%20projects" alt="GitHub Stats for MOHD NEHAL KHAN" width="300" >
 
 ![!visitors](https://visitor-badge.laobi.icu/badge?page_id=MOHDNEHALKHAN.MOHDNEHALKHAN)
 
-### **🤝 Thanks for look out my GitHub Profile!** 
+### **🤝 Thanks to look out my GitHub Profile!** 
