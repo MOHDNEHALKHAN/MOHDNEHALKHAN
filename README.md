@@ -1,10 +1,15 @@
 ![mohd Nehal khan](https://github.com/MOHDNEHALKHAN/MOHDNEHALKHAN/assets/125626654/7f611303-d8de-4cb3-a77b-87656efbcf18)
 
-<h1 align="center" color="black">Hello 👋, I'm Mohd Nehal Khan</h1>
-<img align = "right" alt = "Programmer" width = "400" src ="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+
+<h1 align="left" color="black" font-family = "jaro">HELLO👋, I'm MOHD NEHAL KHAN</h1>
+
+<img align = "center" alt = "Programmer" width = "400" src ="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+
+
 
 - 🌱 I’m currently learning **Javascript Advance Concepts**
 - 📫 How to reach me **nehalk482@gmail.com**
+
 
 
 ## 🌏 **CONNECT WITH ME**
