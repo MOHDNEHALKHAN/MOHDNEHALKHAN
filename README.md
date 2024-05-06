@@ -7,8 +7,8 @@
 
 
 
-- 🌱 I’m currently learning **Javascript Advance Concepts**
-- 📫 How to reach me **nehalk482@gmail.com**
+- 🌱 I’m currently learning **Javascript Advance Concepts & Node.js**
+- 📫 Reach out to me at **nehalk482@gmail.com**
 
 
 
