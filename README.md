@@ -1,16 +1,9 @@
-![mohd Nehal khan](https://github.com/MOHDNEHALKHAN/MOHDNEHALKHAN/assets/125626654/7f611303-d8de-4cb3-a77b-87656efbcf18)
+![mohd Nehal khan](https://github.com/MOHDNEHALKHAN/MOHDNEHALKHAN/assets/125626654/628ab955-09a6-492b-95b6-bb4623a28fa9)
 
-
-<h1 align="left" color="black" font-family = "jaro">HELLO👋, I'm MOHD NEHAL KHAN</h1>
-
-<img align = "center" alt = "Programmer" width = "400" src ="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-
-
+<h1 align="left" color="black" font-family = "jaro">Hello👋, I'm Mohd Nehal Khan</h1>
 
 - 🌱 I’m currently learning **Javascript Advance Concepts & Node.js**
 - 📫 Reach out to me at **nehalk482@gmail.com**
-
-
 
 ## 🌏 **CONNECT WITH ME**
 
@@ -138,10 +131,10 @@
 
 <!--![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MOHDNEHALKHAN&layout=compact&width=300&theme=radical&custom_title=Languages%20used%20in%20my%20projects)-->
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=MOHDNEHALKHAN&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Stats for MOHD NEHAL KHAN" width="420">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=MOHDNEHALKHAN&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Stats for MOHD NEHAL KHAN" width="400">
 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MOHDNEHALKHAN&layout=compact&width=300&theme=radical&custom_title=Languages%20used%20in%20my%20projects" alt="GitHub Stats for MOHD NEHAL KHAN" width="300" >
 
 ![!visitors](https://visitor-badge.laobi.icu/badge?page_id=MOHDNEHALKHAN.MOHDNEHALKHAN)
 
-### **🤝 Thanks to look out my GitHub Profile!** 
+### **🤝 Thanks for looking at my GitHub Profile!** 
