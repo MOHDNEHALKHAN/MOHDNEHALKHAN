@@ -1,4 +1,4 @@
-![mohd Nehal khan](https://github.com/MOHDNEHALKHAN/MOHDNEHALKHAN/assets/125626654/628ab955-09a6-492b-95b6-bb4623a28fa9)
+![mohd Nehal khan (1)](https://github.com/MOHDNEHALKHAN/MOHDNEHALKHAN/assets/125626654/8212ad8b-faf5-4e5c-8f7e-c4ee1ec81763)
 
 <h1 align="left" color="black" font-family = "jaro">Hello👋, I'm Mohd Nehal Khan</h1>
 
