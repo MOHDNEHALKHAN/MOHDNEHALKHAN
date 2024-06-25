@@ -122,6 +122,11 @@
     <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1718969106060/b3336e44-0743-40a6-8379-b1a5e467a7be.png?w=100&h=50&fit=crop&crop=entropy&auto=compress,format&format=webp"/>
 
 </a>
+</a>
+<a href="https://nehalblogs.hashnode.dev/understanding-javascript-the-essential-browser-language"> 
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1717220811340/3e2c92cf-ba8f-4552-a2b2-06423330759c.png?w=100&h=50&fit=crop&crop=entropy&auto=compress,format&format=webp"/>
+
+</a>
 
 ## 📈 **PROFILE STATUS**
 
