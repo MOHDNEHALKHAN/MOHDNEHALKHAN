@@ -127,6 +127,9 @@
     <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1717220811340/3e2c92cf-ba8f-4552-a2b2-06423330759c.png?w=100&h=50&fit=crop&crop=entropy&auto=compress,format&format=webp"/>
 
 </a>
+<a href="https://nehalblogs.hashnode.dev/mongodb-the-ideal-non-sql-database"> 
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1719592680015/5fb35266-d4c5-45ab-b884-2e6c08f3b0c3.png?w=100&h=50&fit=crop&crop=entropy&auto=compress,format&format=webp"/>
+</a>
 
 ## 📈 **PROFILE STATUS**
 
