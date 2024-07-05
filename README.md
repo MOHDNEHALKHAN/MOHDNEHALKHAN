@@ -41,11 +41,11 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white "Bootstrap")
 ![MY SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white "MYSQL")
 ![Mongo DB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white "MONGO DB")
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white "AWS")
 ![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white "Postman")
 ![Node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white "Node.js")
 ![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white "Express.js")
 
+<!-- ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white "AWS") -->
 <!--## 🍧 **DESIGN TOOLS**
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white "Figma")
@@ -142,7 +142,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=MOHDNEHALKHAN&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Stats for MOHD NEHAL KHAN" width="400">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MOHDNEHALKHAN&layout=compact&width=300&theme=radical&custom_title=Languages%20used%20in%20my%20projects" alt="GitHub Stats for MOHD NEHAL KHAN" width="300" >
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MOHDNEHALKHAN&layout=compact&width=300&theme=radical&custom_title=Languages%20Used%20:" alt="GitHub Stats for MOHD NEHAL KHAN" width="300" >
 
 ![!visitors](https://visitor-badge.laobi.icu/badge?page_id=MOHDNEHALKHAN.MOHDNEHALKHAN)
 
