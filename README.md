@@ -145,6 +145,14 @@
     <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1719558532616/fc3a13b6-e906-4d0b-9287-592cdeb596fc.png?w=100&h=50&fit=crop&crop=entropy&auto=compress,format&format=webp"/>
 </a>
 
+<a href="https://nehalblogs.hashnode.dev/how-to-begin-learning-c-programming"> 
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1719557732308/32b28e4f-a8f1-4bdf-b837-6017715bf4a8.png?w=100&h=50&fit=crop&crop=entropy&auto=compress,format&format=webp"/>
+</a>
+
+<a href="https://nehalblogs.hashnode.dev/build-a-to-do-list-app-with-vanilla-js"> 
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1719566824236/a4903e9a-9666-4f8c-84b4-e37bac8382a0.png?w=100&h=50&fit=crop&crop=entropy&auto=compress,format&format=webp"/>
+</a>
+
 ## 📈 **PROFILE STATUS**
 
 
