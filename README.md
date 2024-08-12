@@ -155,16 +155,11 @@
 
 ## 📈 **PROFILE STATUS**
 
-
-<!--[![MOHD NEHAL KHAN's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOHDNEHALKHAN&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
-
-<img src="https://github-readme-stats.vercel.app/api?username=MOHDNEHALKHAN&theme=radical" alt="GitHub Stats for MOHD NEHAL KHAN" width="380" align="right">
-
-<!--![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MOHDNEHALKHAN&layout=compact&width=300&theme=radical&custom_title=Languages%20used%20in%20my%20projects)-->
+<img src="https://github-readme-stats.vercel.app/api?username=MOHDNEHALKHAN&show_icons=true&theme=radical" alt="GitHub Stats for MOHD NEHAL KHAN" width="400" align="right">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=MOHDNEHALKHAN&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Stats for MOHD NEHAL KHAN" width="380">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MOHDNEHALKHAN&layout=compact&width=350&theme=radical&custom_title=Languages%20Used%20:" alt="GitHub Stats for MOHD NEHAL KHAN" width="310" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHDNEHALKHAN&layout=donut&theme=radical" width="310">
 
 ![!visitors](https://visitor-badge.laobi.icu/badge?page_id=MOHDNEHALKHAN.MOHDNEHALKHAN)
 
