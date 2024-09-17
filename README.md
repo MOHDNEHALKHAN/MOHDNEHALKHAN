@@ -1,7 +1,10 @@
 ![mohd Nehal khan (1)](https://github.com/MOHDNEHALKHAN/MOHDNEHALKHAN/assets/125626654/8212ad8b-faf5-4e5c-8f7e-c4ee1ec81763)
 
 </br>
-<h3 align="left" color="black" font-family = "jaro">Hello👋, I'm Mohd Nehal Khan</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=4BB3CC&background=FFFFFF00&width=435&lines=Hello%F0%9F%91%8B%2C+I'm+Mohd+Nehal+Khan;A+self+taught+Frontend+Developer)](https://git.io/typing-svg)
+
+<!-- <h3 align="left" color="black" font-family = "jaro">Hello👋, I'm Mohd Nehal Khan</h3> -->
 
 - 🌱 I’m currently learning **Javascript Advance Concepts & Node.js**
 - 📫 Reach out to me at **nehalk482@gmail.com**
