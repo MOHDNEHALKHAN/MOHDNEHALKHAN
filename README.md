@@ -162,7 +162,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=MOHDNEHALKHAN&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Stats for MOHD NEHAL KHAN" width="380">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHDNEHALKHAN&layout=donut&theme=radical" width="310">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHDNEHALKHAN&layout=compact&theme=radical" width="310">
 
 ![!visitors](https://visitor-badge.laobi.icu/badge?page_id=MOHDNEHALKHAN.MOHDNEHALKHAN)
 
