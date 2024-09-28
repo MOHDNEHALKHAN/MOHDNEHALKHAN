@@ -131,11 +131,11 @@
 <a href="https://nehalblogs.hashnode.dev/understanding-javascript-the-essential-browser-language"> 
     <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1717220811340/3e2c92cf-ba8f-4552-a2b2-06423330759c.png?w=100&h=50&fit=crop&crop=entropy&auto=compress,format&format=webp"/>
 </a>
-</br>
+
 <a href="https://nehalblogs.hashnode.dev/weather-app-tutorial-easy-steps-to-follow"> 
     <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1718894743711/57ca33d3-1f46-426c-873d-0a18c17691e3.png?w=100&h=50&fit=crop&crop=entropy&auto=compress,format&format=webp"/>
 </a>
-
+</br>
 <a href="https://nehalblogs.hashnode.dev/mongodb-the-ideal-non-sql-database"> 
     <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1719592680015/5fb35266-d4c5-45ab-b884-2e6c08f3b0c3.png?w=100&h=50&fit=crop&crop=entropy&auto=compress,format&format=webp"/>
 </a>
@@ -154,6 +154,10 @@
 
 <a href="https://nehalblogs.hashnode.dev/build-a-to-do-list-app-with-vanilla-js"> 
     <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1719566824236/a4903e9a-9666-4f8c-84b4-e37bac8382a0.png?w=100&h=50&fit=crop&crop=entropy&auto=compress,format&format=webp"/>
+</a>
+
+<a href="https://nehalblogs.hashnode.dev/comprehensive-steps-to-kick-off-global-hack-week"> 
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1727336530106/d113424b-dc13-4bb5-befe-2bbe68a67596.png?w=100&h=50&fit=crop&crop=entropy&auto=compress,format&format=webp"/>
 </a>
 
 ## 📈 **PROFILE STATUS**
