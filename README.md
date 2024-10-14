@@ -174,6 +174,8 @@
 
 <img src="https://stats.quira.sh/MOHDNEHALKHAN/languages-over-time?theme=dark" width="450">
 
+## Hacktoberfest'2024 Contribution Badges
+[![An image of @mohdnehalkhan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mohdnehalkhan)](https://holopin.io/@mohdnehalkhan)
 
 ![!visitors](https://visitor-badge.laobi.icu/badge?page_id=MOHDNEHALKHAN.MOHDNEHALKHAN)
 
