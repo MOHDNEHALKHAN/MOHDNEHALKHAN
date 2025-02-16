@@ -1,4 +1,4 @@
-![mohd Nehal khan (1)](https://github.com/MOHDNEHALKHAN/MOHDNEHALKHAN/assets/125626654/8212ad8b-faf5-4e5c-8f7e-c4ee1ec81763)
+![mohd Nehal khan (1)](https://github.com/user-attachments/assets/1c3c24dd-efc8-4855-b390-a8051c26d0d3)
 
 </br>
 
