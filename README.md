@@ -168,15 +168,13 @@
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=MOHDNEHALKHAN&show_icons=true&theme=radical" alt="GitHub Stats for MOHD NEHAL KHAN" width="400" align="right"> -->
 
-<img src="https://stats.quira.sh/MOHDNEHALKHAN/github?theme=dark" alt="GitHub Stats for MOHD NEHAL KHAN" width="385" align="right">
+
 
 <!-- [![MOHDNEHALKHAN's GitHub | Stats](https://stats.quira.sh/MOHDNEHALKHAN/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=MOHDNEHALKHAN) -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=MOHDNEHALKHAN&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Stats for MOHD NEHAL KHAN" width="400">
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHDNEHALKHAN&layout=compact&theme=radical" width="380"> -->
-
-<img src="https://stats.quira.sh/MOHDNEHALKHAN/languages-over-time?theme=dark" width="450">
 
 ## Hacktoberfest'2024 Contribution Badges
 [![An image of @mohdnehalkhan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mohdnehalkhan)](https://holopin.io/@mohdnehalkhan)
