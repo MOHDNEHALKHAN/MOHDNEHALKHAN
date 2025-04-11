@@ -164,6 +164,10 @@
     <img width="100" height="50" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1727336530106/d113424b-dc13-4bb5-befe-2bbe68a67596.png?w=100&h=50&fit=crop&crop=entropy&auto=compress,format&format=webp"/>
 </a>
 
+<a href="https://nehalblogs.hashnode.dev/google-cloud-arcade-facilitator-program-overview-key-features"> 
+    <img width="100" height="50" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1743951990119/0c9ac16a-2f6a-4d79-acc5-11960d364e52.png?w=100&h=50&fit=crop&crop=entropy&auto=compress,format&format=webp"/>
+</a>
+
 ## 📈 **PROFILE STATUS**
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=MOHDNEHALKHAN&show_icons=true&theme=radical" alt="GitHub Stats for MOHD NEHAL KHAN" width="400" align="right"> -->
